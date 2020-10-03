@@ -1,0 +1,30 @@
+.jumbotron{
+    background-image: url(../image/highbury.png);
+}
+
+.me{
+    margin-left: 55px;
+    margin-right: 55px;
+}
+
+hr{
+    width: 350px;
+    border-top: 3px solid;
+}
+
+section{
+    min-height: 550px;
+}
+
+body {
+    margin-top: 50px;
+}
+
+section {
+    min-height: 420px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top:12px;
+}
