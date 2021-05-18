@@ -1,5 +1,10 @@
 .jumbotron{
-    background-image: url(../image/highbury.png);
+    background-image: url(../image/highbury.jpg);
+    text-align:center;
+    background-size: cover;
+    background-position: 0 50%; 
+    width:100%;
+    height: 620px;
 }
 
 .me{
